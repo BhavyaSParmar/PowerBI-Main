@@ -8,7 +8,6 @@ Sales Forecasting Dashboard
 This dashboard provides a comprehensive view of the Covid-19 vaccination rollout. It visualizes various metrics such as doses administered, vaccination rates by region, and demographic breakdowns of vaccinated populations. The goal is to offer insights that can help health professionals and the public understand the progress of vaccine distribution.
 
 Features:
-
 Visualization of total doses administered over time
 Breakdown of vaccination rates by age, gender, and region
 Comparative analysis of target vs achieved vaccinations
@@ -23,7 +22,6 @@ View the Covid-19 Vaccination Dashboard
 This dashboard is designed to provide insights into sales data and forecast future trends based on historical data. It is an essential tool for businesses looking to enhance their decision-making processes with accurate sales projections.
 
 Features:
-
 Monthly sales performance tracking
 Product-wise sales analysis
 Sales trend identification and forecasting
